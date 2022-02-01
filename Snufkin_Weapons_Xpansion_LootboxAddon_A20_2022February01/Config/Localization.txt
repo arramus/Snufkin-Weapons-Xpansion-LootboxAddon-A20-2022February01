@@ -23,4 +23,4 @@ LVL2YellowLootBoxDesc,items,Item,,,"The Level 2 - Yellow Loot Box can be opened 
 LVL3RedLootBox,items,Item,,,Level 3 - Red Loot Box,,,,,,,,,,,,,
 LVL3RedLootBoxDesc,items,Item,,,"The Level 3 - Red Loot Box can be opened to receive a Level 3 Snufkin Xpansion Weapon. Level 3 Xpansion Weapons include CrossbowMag, HyperBlaster Ticket, Railgun Ticket, Vampire Gauntlets, DCLXVI Zeus, and Black Widow.",,,,,,,,,,,,,
 LVL4PurpleLootBox,items,Item,,,Level 4 - Purple Loot Box,,,,,,,,,,,,,
-LVL4PurpleLootBoxDesc,items,Item,,,"The Level 4 - Purple Loot Box can be opened to receive a Level 4 Snufkin Xpansion Weapon. Level 4 Xpansion Weapons include Gamma Gun Ticket, Kronos XII, Railgun Ticket, Vulcan, Crimson Hunter, and oakraven X11.",,,,,,,,,,,,,
+LVL4PurpleLootBoxDesc,items,Item,,,"The Level 4 - Purple Loot Box can be opened to receive a Level 4 Snufkin Xpansion Weapon. Level 4 Xpansion Weapons include Gamma Gun Ticket, Kronos XII, Vulcan, Crimson Hunter, and oakraven X11.",,,,,,,,,,,,,
